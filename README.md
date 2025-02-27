@@ -16,3 +16,6 @@ A simple Python script that evaluates password strength based on length, charact
 2. **Install dependencies**
    ```sh
    pip install zxcvbn
+### 📌 To-Do (Future Enhancements)
+1. Check if the password has been leaked (using Have I Been Pwned API)
+2. Add a GUI for better user interaction
