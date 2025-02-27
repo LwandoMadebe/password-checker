@@ -13,3 +13,6 @@ A simple Python script that evaluates password strength based on length, charact
    ```sh
    git clone https://github.com/LwandoMadebe/password-checker.git
    cd password-checker
+2. **Install dependencies**
+   ```sh
+   pip install zxcvbn
