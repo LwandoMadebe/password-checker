@@ -16,3 +16,9 @@ A simple Python script that evaluates password strength based on length, charact
 2. **Install dependencies**
    ```sh
    pip install zxcvbn
+
+### 🚀 Usage
+```sh
+python password_checker.py
+```
+### 📜 Example Output
