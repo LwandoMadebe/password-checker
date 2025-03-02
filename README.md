@@ -18,7 +18,11 @@ A simple Python script that evaluates password strength based on length, charact
    pip install zxcvbn
 
 ### 🚀 Usage
+Run the script in a terminal:
 ```sh
 python password_checker.py
 ```
 ### 📜 Example Output
+```sh
+Enter a password to check: best@2025
+Moderate password ⚠️
